@@ -1,0 +1,9 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "Lorem ipsum",
+      "content": "Lorem ipsum dolor sit amet"
+    }
+  ]
+}

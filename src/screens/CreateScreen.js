@@ -1,6 +1,6 @@
 import React, { useContext } from 'react';
 import { StyleSheet } from 'react-native';
-import BlogPostForm from '../components/BlogPostFrom';
+import BlogPostForm from '../components/BlogPostForm';
 import { Context as BlogContext } from '../context/BlogContext';
 
 const CreateScreen = ({ navigation }) => {
